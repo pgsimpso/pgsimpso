@@ -7,4 +7,4 @@
 
 🌱 I’m currently studying functional programming in Scala.
 
-![animated Mortal Kombat fighter](https://cdn-30-prod.mortalkombat.com/roster/scorpion/gallery/mortal-kombat-1.gif)
+![animated Mortal Kombat fighter](scorpion.gif)
